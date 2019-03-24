@@ -89,6 +89,10 @@ footer {
   text-align: center;
 }
 
+.caption a {
+  color: #ffffff;;
+}
+
 .pics {
   float: left;
   display: flex;
